@@ -8,4 +8,7 @@ Data cleaning is a vital role in deriving the output of a machine learning model
 Data visualization role is an important key in developing and understanding the data before the model implementation. Summarizing the variables, we analyzed their skew and metrics relative to each other. Satisfaction levels are justifiably distributed. To understand the relationship between the feature variables and the target variable we leverage the data and examine the distribution of satisfaction within the attributes by finding its positive and negative correlation. Correlation Matrix – shows all pair correlations between variables, these pairs can have positive and negative correlation. 
 ## Research Business Problem 
 Our report on the Evaluation Data Analysis reveals that level 1, 2 and 3 from categorical variables (ordinal) are often under unsatisfied customers. Their satisfaction is less likely to be fulfilled and seems to be linked to customer type – loyalty. Customer loyalty will increase the possibilities of customer satisfaction. Customer will need a positive experience such as great customer service (on board service), online booking, seat comfort, inflight entertainment, and cleanliness. Per our Correlation Matrix the highest positive variable ‘Online Booking’ – airlines should focus on improve a user-friendly customer interface site as business travelers enjoys the comfort and pleasure while flying.
-
+## Project Timeline
+October 2022
+## Languages / Frameworks 
+Google Colaboratory (Python: NumPy, Pandas, Matplotlib, Seaborn) & Machine Learning (Regression, Classification) 
